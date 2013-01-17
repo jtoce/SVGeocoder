@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SVGeocoderLib' target in the 'SVGeocoderLib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
